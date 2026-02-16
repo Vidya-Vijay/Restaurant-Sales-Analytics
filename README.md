@@ -65,7 +65,7 @@ Implementing these strategies could increase revenue by **10–15%**, improve cu
  ![Word Cloud - Negative Reviews](Images/neg_wordcloud.png)  
   *Highlights recurring negative service issues*
 
- ![Regression Analysis Output](Images/Regression_coeff.png)  
+ ![Regression Analysis Output](Images/Reg_coeff.png)  
   *Multiple Linear Regression model showing key revenue drivers*
 
 ---
