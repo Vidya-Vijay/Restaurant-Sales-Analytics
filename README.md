@@ -56,21 +56,17 @@ Implementing these strategies could increase revenue by **10–15%**, improve cu
 ---
 
 ## Dashboards & Visualizations
-- ![Power BI Dashboard](Images/RestaurantDashboard.png)  
+ ![Power BI Dashboard](Images/RestaurantDashboard.png)  
   *Interactive dashboard showing revenue trends, KPIs, and operational insights*
 
-- ![Word Cloud - Positive Reviews](Images/pos_wordcloud.png)  
+![Word Cloud - Positive Reviews](Images/pos_wordcloud.png)  
   *Highlights frequent positive customer feedback*
 
-- ![Word Cloud - Negative Reviews](Images/neg_wordcloud.png)  
+ ![Word Cloud - Negative Reviews](Images/neg_wordcloud.png)  
   *Highlights recurring negative service issues*
 
-- ![Regression Analysis Output](Images/Regression _coeff.png)  
+ ![Regression Analysis Output](Images/Regression_coeff.png)  
   *Multiple Linear Regression model showing key revenue drivers*
-
----
-
-
 
 ---
 
