@@ -56,33 +56,21 @@ Implementing these strategies could increase revenue by **10–15%**, improve cu
 ---
 
 ## Dashboards & Visualizations
-- ![Power BI Dashboard](dashboards/powerbi_dashboard.png)  
+- ![Power BI Dashboard](Images/RestaurantDashboard.png)  
   *Interactive dashboard showing revenue trends, KPIs, and operational insights*
 
-- ![Word Cloud - Positive Reviews](images/wordcloud_positive.png)  
+- ![Word Cloud - Positive Reviews](Images/pos_wordcloud.png)  
   *Highlights frequent positive customer feedback*
 
-- ![Word Cloud - Negative Reviews](images/wordcloud_negative.png)  
+- ![Word Cloud - Negative Reviews](Images/neg_wordcloud.png)  
   *Highlights recurring negative service issues*
 
-- ![Regression Analysis Output](dashboards/regression_output.png)  
+- ![Regression Analysis Output](Images/Regression _coeff.png)  
   *Multiple Linear Regression model showing key revenue drivers*
 
 ---
 
-## Repository Structure
-- `notebooks/` – Jupyter notebooks with data cleaning, EDA, modeling, and sentiment analysis  
-- `sql/` – SQL queries for data aggregation and analysis  
-- `data/` – Sample datasets (if allowed)  
-- `dashboards/` – Power BI / Tableau screenshots  
-- `images/` – Charts, word clouds, visualizations  
 
----
-
-## How to Run
-1. Install dependencies listed in `requirements.txt`  
-2. Open notebooks in the order: `01_data_cleaning.ipynb → 02_eda.ipynb → 03_regression_model.ipynb → 04_sentiment_analysis.ipynb`  
-3. SQL scripts can be executed in any standard SQL environment  
 
 ---
 
